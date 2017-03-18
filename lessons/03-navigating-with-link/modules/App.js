@@ -15,4 +15,4 @@ export default React.createClass({
   }
 })
 
-//link to is like an anchor tag but in react
+//link to is an anchor tag but in react
