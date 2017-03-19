@@ -12,6 +12,7 @@ export default React.createClass({
           <li><NavLink to="/repos">Repos</NavLink></li>
         </ul>
         {this.props.children}
+      {/*this.props.children renders whatever is in the componenet youre in*/}
       </div>
     )
   }
